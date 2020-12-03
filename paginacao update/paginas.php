@@ -1,7 +1,7 @@
 <!-- Chama a biblioteca jquery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
-/*Busca a quantiade de paginas para numerar*/
+/*Busca a quantiade de paginas para numerar a paginacao*/
 jQuery(document).ready(function(){
 var pagina = 'pagina';
 var param = 10;
