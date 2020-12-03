@@ -7,7 +7,7 @@ define('PASS', '');
 define('DBNAME', 'produtos');
 define('PORT', '');
 
-/* Conexão */
+/* Classe Conexão */
 class Conection 
 {
 
