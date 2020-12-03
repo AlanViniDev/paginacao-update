@@ -1,5 +1,5 @@
 <?php
-
+/*Conexao com banco de dados*/
 /* Constantes */
 define('HOST', 'localhost');
 define('USER', 'root');
@@ -8,7 +8,8 @@ define('DBNAME', 'produtos');
 define('PORT', '');
 
 /* Conexão */
-class Conection {
+class Conection 
+{
 
     public $conexao;
     
